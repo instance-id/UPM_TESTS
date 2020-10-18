@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.gameframe.packages": "https://github.com/coryleach/UnityPackages.git#1.0.2",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.1",

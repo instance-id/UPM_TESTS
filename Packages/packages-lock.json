@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.gameframe.packages": {
+      "version": "https://github.com/coryleach/UnityPackages.git#1.0.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "66a7ad13fb40862a6bfcf5b69e407052f52c8a0d"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
